@@ -1,5 +1,7 @@
 # rtl88x2BU_WiFi_linux
 
+# rtl88x2BU无线网卡ubuntu驱动（装好5G杠杠滴）
+
 #安装准备</br>
 
 sudo apt install build-essential cmake
